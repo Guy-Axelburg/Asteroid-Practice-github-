@@ -28,7 +28,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_debris",
+    "path": "sprites/spr_debris/spr_debris.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
